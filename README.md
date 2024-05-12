@@ -28,6 +28,3 @@ In this project, I aimed to create a futuristic and immersive user interface tha
 For a live demo of Cyberpunk 3100, please visit the [Vercel deployment](https://cyberpunk-3100.vercel.app/).
 
 Thank you for taking the time to explore this project. If you have any feedback or inquiries, feel free to contact me.
-
-**[Your Name]**
-[Your Portfolio Website](https://your-portfolio-link.com)
