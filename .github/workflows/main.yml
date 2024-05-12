@@ -50,5 +50,5 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.KEY }} #this is the access token key
+          github_token: ${{ secrets.CYBERPUNK_3100_GA_DEMO }} #this is the access token key
           publish_dir: ./cyberpunk-3100/build
