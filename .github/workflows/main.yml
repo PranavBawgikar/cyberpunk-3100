@@ -20,12 +20,12 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          cd cyberpunk-3100
+          # cd cyberpunk-3100
           npm install
 
       - name: Build Project
         run: |
-          cd cyberpunk-3100
+          # cd cyberpunk-3100
           npm run build
 
       - name: Upload artifact to enable deployment
